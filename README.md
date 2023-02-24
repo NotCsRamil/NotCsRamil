@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramil Ashraf</h1>
 <h3 align="center">A passionate CS undergrad from Vellore Institute of Technology</h3>
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/be/cb/ca/becbca09cc81c9ecd1ce133c836b3f25.gif">
+
 
 - 🌱 I’m currently learning **Android Studio, Web development**
 
