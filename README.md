@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramil Ashraf</h1>
 <h3 align="center">A passionate CS undergrad from Vellore Institute of Technology</h3>
 
-- 🌱 I’m currently learning **Android Studio, Web development**
+- 🌱 I’m currently learning **Flutter, Web development**
 
 - 📫 How to reach me **ramilash605@gmail.com**
 
