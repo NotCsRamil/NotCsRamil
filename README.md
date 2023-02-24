@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramil Ashraf</h1>
 <h3 align="center">A passionate CS undergrad from Vellore Institute of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notcsramil&label=Profile%20views&color=0e75b6&style=flat" alt="notcsramil" /> </p>
-
 - 🌱 I’m currently learning **Android Studio, Web development**
 
 - 😎 Fun Fact **I make Memes**
